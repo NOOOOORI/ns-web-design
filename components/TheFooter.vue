@@ -1,7 +1,7 @@
 <template>
   <footer class="footer">
     <p class="copyright">
-      <small>©️2021 My Portfolio All Rights Reserved.</small>
+      <small>©️2021 N's Design All Rights Reserved.</small>
     </p>
   </footer>
 </template>

@@ -3,7 +3,7 @@
     <div class="headerContainer">
       <!-- ロゴ -->
       <component :is="isTopPage ? 'h1' : 'p'" class="logo">
-        <nuxt-link to="/">My Portfolio</nuxt-link>
+        <nuxt-link to="/">N's Design</nuxt-link>
       </component>
 
       <!-- メニュー -->
