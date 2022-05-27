@@ -6,7 +6,7 @@ $base-color-primary: #fff;
 $base-color-secondary: #fafafa;
 
 // text color
-$text-color-primary: #010101;
+$text-color-primary: #353535;
 $text-color-secondary: #fff;
 
 // key
@@ -18,8 +18,9 @@ $color-body-background: $base-color-primary;
 // -------------------------------------------
 // Typeface Settings
 // -------------------------------------------
-$font-base: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'Osaka',
-  'メイリオ', 'Meiryo', 'ＭＳ Ｐゴシック', 'MS P Gothic', sans-serif;
+$font-base: 'Avenir', 'Helvetica Neue', 'Helvetica', 'Arial', 'Hiragino Sans',
+  'ヒラギノ角ゴシック', YuGothic, 'Yu Gothic', 'メイリオ', Meiryo,
+  'ＭＳ Ｐゴシック', 'MS PGothic';
 
 // -------------------------------------------
 // Break Points
