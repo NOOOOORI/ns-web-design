@@ -1,43 +1,5 @@
 <template>
   <div>
-    <div class="mainVisual">
-      <picture>
-        <source
-          srcset="https://placehold.jp/375x530.png"
-          media="(max-width: 767px)"
-        />
-        <img src="https://placehold.jp/1440x436.png" alt="" />
-      </picture>
-    </div>
-
-    <section id="about" class="sectionPrimary">
-      <div class="container">
-        <h2 class="headingPrimary">about</h2>
-        <div class="profile">
-          <div class="profile__upper">
-            <div class="profile__text">
-              <p class="profile__name">
-                山田 太郎<span lang="en">Taro Yamada</span>
-              </p>
-              <dl class="profile__item">
-                <dt class="profile__title">技術スタック</dt>
-                <dd>HTML / CSS / jQuery / JavaScript / Nuxt</dd>
-              </dl>
-              <dl class="profile__item">
-                <dt class="profile__title">趣味</dt>
-                <dd>開発、ゲーム、YouTube、ライブ、音楽フェス、ピアノ、卓球</dd>
-              </dl>
-            </div>
-            <figure class="profile__image">
-              <img src="https://placehold.jp/260x260.png" alt="your name" />
-            </figure>
-          </div>
-          <p class="profile__message">
-            自己紹介を入れましょう。出身や経歴と現在の仕事の内容を簡単に話すも良し。<br />数年後の目標や今学んでいること、活動している内容を入れるのも良いかと思います。
-          </p>
-        </div>
-      </div>
-    </section>
 
     <section class="sectionPrimary background--gray">
       <div class="container">
