@@ -13,9 +13,6 @@
             <nuxt-link to="/" class="menu__link">home</nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/#about" class="menu__link">about</nuxt-link>
-          </li>
-          <li>
             <nuxt-link to="/works" class="menu__link">works</nuxt-link>
           </li>
         </ul>
