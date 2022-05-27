@@ -6,7 +6,7 @@ export default {
   head: {
     title: 'ns-web-design',
     htmlAttrs: {
-      lang: 'en',
+      lang: 'ja',
     },
     meta: [
       { charset: 'utf-8' },
