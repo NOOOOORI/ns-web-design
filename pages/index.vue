@@ -1,6 +1,14 @@
 <template>
   <div>
-
+    <div class="mainVisual">
+      <picture>
+        <source
+          srcset="https://placehold.jp/375x530.png"
+          media="(max-width: 767px)"
+        />
+        <img src="https://placehold.jp/1440x436.png" alt="" />
+      </picture>
+    </div>
     <section class="sectionPrimary background--gray">
       <div class="container">
         <h2 class="headingPrimary">works</h2>
